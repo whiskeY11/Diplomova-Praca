@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style1",
+        "styleHash": "-3003e4e6",
+        "description": "<p>I_OBJ: 36\r\n<br/>I_C_KAT: 6\r\n<br/>N_OBJ: Pitn� voda - trhovisko Centrum",
+        "I_OBJ": "36",
+        "I_C_KAT": "6",
+        "N_OBJ": "Pitn� voda - trhovisko Centrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.224234,
+          49.01719,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style1",
+        "styleHash": "-3003e4e6",
+        "description": "<p>I_OBJ: 34\r\n<br/>I_C_KAT: 6\r\n<br/>N_OBJ: Font�nka na pitie - dets. ihrisko Oravsk� ul.",
+        "I_OBJ": "34",
+        "I_C_KAT": "6",
+        "N_OBJ": "Font�nka na pitie - dets. ihrisko Oravsk� ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.268514,
+          48.988082,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 33\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na �v�by",
+        "I_OBJ": "33",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na �v�by"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.262491,
+          48.974106,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 32\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na NS OP�L",
+        "I_OBJ": "32",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na NS OP�L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.265418,
+          48.986844,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 31\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Park Angelinum",
+        "I_OBJ": "31",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Park Angelinum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.272347,
+          48.993034,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 30\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Z� �meralova",
+        "I_OBJ": "30",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Z� �meralova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.227245,
+          49.020515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 29\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na NS Centrum",
+        "I_OBJ": "29",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na NS Centrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.224587,
+          49.016842,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 14\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Dru�ba",
+        "I_OBJ": "14",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Dru�ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.223998,
+          49.006461,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 13\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na N�m. ml�de�e",
+        "I_OBJ": "13",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na N�m. ml�de�e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.230431,
+          48.994833,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 12\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na N�m. mieru",
+        "I_OBJ": "12",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na N�m. mieru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.24013,
+          49.001705,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 11\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Div�zia, N�m. legion�rov",
+        "I_OBJ": "11",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Div�zia, N�m. legion�rov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.245,
+          48.992579,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 10\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Centr�l S�dl. II.",
+        "I_OBJ": "10",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Centr�l S�dl. II."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.224507,
+          48.99868,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style2",
+        "styleHash": "7e55e2e3",
+        "description": "<p>I_OBJ: 9\r\n<br/>I_C_KAT: 7\r\n<br/>N_OBJ: Font�na Nept�n",
+        "I_OBJ": "9",
+        "I_C_KAT": "7",
+        "N_OBJ": "Font�na Nept�n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240598,
+          48.997233,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style1",
+        "styleHash": "-3003e4e6",
+        "description": "<p>I_OBJ: 8\r\n<br/>I_C_KAT: 6\r\n<br/>N_OBJ: Font�nka na pitie Lekno, OD TESCO",
+        "I_OBJ": "8",
+        "I_C_KAT": "6",
+        "N_OBJ": "Font�nka na pitie Lekno, OD TESCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.243934,
+          48.993127,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style1",
+        "styleHash": "-3003e4e6",
+        "description": "<p>I_OBJ: 7\r\n<br/>I_C_KAT: 6\r\n<br/>N_OBJ: Font�nka na pitie Hr�b, Hlavn� ul.",
+        "I_OBJ": "7",
+        "I_C_KAT": "6",
+        "N_OBJ": "Font�nka na pitie Hr�b, Hlavn� ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240826,
+          48.997613,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "styleUrl": "#style1",
+        "styleHash": "-3003e4e6",
+        "description": "<p>I_OBJ: 6\r\n<br/>I_C_KAT: 6\r\n<br/>N_OBJ: Font�nka na pitie Mu��a, Hlavn� ul.",
+        "I_OBJ": "6",
+        "I_C_KAT": "6",
+        "N_OBJ": "Font�nka na pitie Mu��a, Hlavn� ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240284,
+          48.997121,
+          0
+        ]
+      }
+    }
+  ]
+}

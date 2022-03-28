@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingLeft="?dialogPreferredPadding"
+    android:paddingRight="?dialogPreferredPadding"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/nameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Spinner
+            android:id="@+id/iconDropdown"
+            android:layout_width="match_parent"
+            android:paddingStart="?dialogPreferredPadding"
+            android:layout_centerInParent="true"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:id="@+id/iconPlaceholder"
+            android:layout_alignStart="@id/iconDropdown"
+            android:src="@drawable/mapbox_markerview_icon_default"
+            android:layout_width="30dp"
+            android:layout_height="30dp"/>
+    </RelativeLayout>
+</LinearLayout>

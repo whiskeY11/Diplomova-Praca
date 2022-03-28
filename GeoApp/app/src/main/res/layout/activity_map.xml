@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:context=".MapActivity"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraTargetLat="48.99839"
+        mapbox:mapbox_cameraTargetLng="21.23393"
+        mapbox:mapbox_cameraZoom="11">
+
+    </com.mapbox.mapboxsdk.maps.MapView>
+
+    <ProgressBar
+        android:id="@+id/map_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_centerInParent="true"
+        android:visibility="invisible" />
+
+    <RelativeLayout
+        android:id="@+id/actionAvailable_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible">
+
+        <ImageView
+            android:id="@+id/centerLocationIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:onClick="centerLocationIconClick"
+            android:src="@drawable/ic_center_location" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/saveLocationButton"
+        android:visibility="invisible"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/mapView"
+        android:layout_margin="8dp"
+        android:background="@color/colorPrimary"
+        android:text="Uložiť súradnice"
+        android:onClick="editSaveLocationClick"
+        android:textColor="@android:color/white"/>
+
+    <ImageView
+        android:id="@+id/editMarker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:src="@drawable/mapbox_marker_icon_default"/>
+
+</RelativeLayout>

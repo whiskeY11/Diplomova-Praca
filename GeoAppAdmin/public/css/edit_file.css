@@ -1,0 +1,46 @@
+.row.content {height: 550px}
+@media screen and (max-width: 767px) {
+    .row.content {height: auto;}
+}
+.sidebar {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    color: #818181;
+    display: block;
+}
+.sidebar a:hover {
+    color: #f8a72e;
+}
+.col-sm-9 {
+    margin-left: 20%;
+    padding: 20px 0px 0px 0px;
+}
+.table-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 3rem;
+}
+.form-ed {
+    padding: 0em 43em 0em 1em;
+}
+.btn-outline-primary {
+    border-color: #f8a72e;
+    color: #f8a72e;
+}
+.btn-outline-primary:hover {
+    color:#fff;
+    border-color: #f8a72e;
+    background-color: #f8a72e;
+}
+

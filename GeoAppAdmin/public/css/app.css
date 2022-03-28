@@ -1,0 +1,41 @@
+.row.content {height: 550px}
+@media screen and (max-width: 767px) {
+    .row.content {height: auto;}
+}
+.sidebar {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    color: #818181;
+    display: block;
+}
+.sidebar a:hover {
+    color: #f8a72e;
+}
+.logout-btn {
+    text-decoration: none;
+    background-color: #5d6a94;
+    color:white;
+}
+.logout-btn:hover {
+    color:black;
+}
+.btn-warning {
+    border-color: rgba(248, 46, 46, 0.55);
+    background-color: rgba(248, 46, 46, 0);
+    color:black;
+}
+.btn-warning:active {
+    border-color: rgba(248, 46, 46, 0.55);
+    background-color: rgba(248, 46, 46, 0.55);
+    color:black;
+}

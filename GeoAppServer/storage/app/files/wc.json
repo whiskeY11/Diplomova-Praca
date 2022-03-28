@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "35",
+        "I_C_KAT": "2",
+        "N_OBJ": "WC verejné toalety Hlavná ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.241205,
+          48.996492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "37",
+        "I_C_KAT": "2",
+        "N_OBJ": "WC Trhovisko Centrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.224201,
+          49.01722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "56",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC MsÚ, Jarková 24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.23941,
+          48.996374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "59",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Želez. stanica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.249695,
+          48.983138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "60",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Hypermarket Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.252869,
+          48.980976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "61",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Kaufland Sekčov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.263536,
+          48.987756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "62",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Kaufland Levočská ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.228748,
+          49.001205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "63",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC McDonalds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.269411,
+          48.998083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "64",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Tesco Vukov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.219795,
+          49.008812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "65",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC ZOC MAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.270783,
+          48.997447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "66",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Hypernova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.270959,
+          48.999661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "4",
+        "I_C_KAT": "2",
+        "N_OBJ": "WC verejné toalety Floriánova ul."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.239389,
+          48.997183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "532",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Eperia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2635,
+          48.988669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "602",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Čerp. stanica Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.221376,
+          49.0087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "603",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Čerp. stanica Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.217314,
+          49.001999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "604",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Espresso, Centrál"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.225062,
+          48.998582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "605",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Centrál reštaurácia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.224817,
+          48.998097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "I_OBJ": "606",
+        "I_C_KAT": "13",
+        "N_OBJ": "WC Čerp. stanica Slovnaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.206913,
+          49.0001
+        ]
+      }
+    }
+  ]
+}

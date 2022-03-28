@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Vyhladať"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/action_cancel"
+        android:icon="@drawable/ic_cancel"
+        app:showAsAction="always"
+        android:title="Zrušiť"
+        android:visible="false">
+    </item>
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="always"
+        android:title="Vymazať"
+        android:visible="false">
+    </item>
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_edit_dialog"
+        app:showAsAction="always"
+        android:title="Vymazať"
+        android:visible="false">
+    </item>
+    <item
+        android:id="@+id/action_edit_location"
+        android:icon="@drawable/ic_edit_location"
+        app:showAsAction="always"
+        android:title="Vymazať"
+        android:visible="false">
+    </item>
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="collapseActionView"
+        android:title="Pridať bod">
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="collapseActionView"
+        android:title="Nastavenia">
+    </item>
+    <item
+        android:id="@+id/action_sync"
+        android:icon="@drawable/ic_sync"
+        app:showAsAction="collapseActionView"
+        android:title="Synchronizovať">
+    </item>
+</menu>
